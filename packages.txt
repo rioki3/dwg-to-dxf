@@ -1,0 +1,5 @@
+libgdiplus
+libc6-dev
+libx11-dev
+fontconfig
+
